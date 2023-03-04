@@ -1,1 +1,2 @@
 lo visto en la clase anterior fue:
+que es un sistema de control de versiones
